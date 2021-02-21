@@ -103,10 +103,3 @@ username=$.username;id=$.userId
 //实际执行时，username的值会替换为长度为6的数字随机数如：
 {"username":"653495"}
 ```
-## 待优化
-
-- 支持xml
-- 支持auth
-- 支持delete，put等方法
-- 支持验证数据库
-- 待加+++++
